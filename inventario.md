@@ -5,3 +5,4 @@ ECHO attivo.
 "nuovo componente" 
 "nuovo componente" 
 "processori" 
+aaaa
