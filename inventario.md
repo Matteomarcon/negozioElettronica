@@ -5,4 +5,8 @@ ECHO attivo.
 "nuovo componente" 
 "nuovo componente" 
 "processori" 
+<<<<<<< HEAD
 aaaa
+=======
+aoaoao 
+>>>>>>> feature/f
